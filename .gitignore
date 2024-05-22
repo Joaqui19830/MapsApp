@@ -1,5 +1,9 @@
+
+
+
 # OSX
 #
+
 .DS_Store
 
 # Xcode
@@ -33,6 +37,10 @@ local.properties
 .cxx/
 *.keystore
 !debug.keystore
+
+# env
+.env
+
 
 # node.js
 #
